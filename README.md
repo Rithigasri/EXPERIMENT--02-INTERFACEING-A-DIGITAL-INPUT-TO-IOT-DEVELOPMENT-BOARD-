@@ -163,9 +163,9 @@ void assert_failed(uint8_t *file, uint32_t line)
 #endif 
 ```
 ## OUTPUT:
-### Before detection of an object
+* Before detection of an object
 ![image](https://user-images.githubusercontent.com/93427256/227698501-2676f6c3-ceed-4838-adf4-06c78954bbe9.png)
-### After detection of an object
+* After detection of an object
 ![image](https://user-images.githubusercontent.com/93427256/227698609-9b2ca721-c528-4dda-98fd-23758bd15bac.png)
 
  
